@@ -12,7 +12,7 @@
 ## I'm Listening Right Now
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31phjmcjluxu5zd4gubfspa2jaqe&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31phjmcjluxu5zd4gubfspa2jaqe&redirect=true) 
-<img  align="right" width="40%" src="https://count.getloli.com/get/@:mshelovee?theme=asoul"> 
+<img  align="right" width="40%" src="https://count.getloli.com/get/@:hestiay?theme=asoul"> 
 
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=mshelovee&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
 <img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=mshelovee&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
