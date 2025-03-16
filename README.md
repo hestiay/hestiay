@@ -3,8 +3,6 @@
  <br><br>
  <samp>
 Hestiay De Souza
-   <br><br>
-<img src="https://i.pinimg.com/736x/a9/51/9f/a9519f9016b40be2d77b823a6f58ece1.jpg" alt="fenerbahce">
 
 
 
